@@ -1,0 +1,140 @@
+{
+  "hero": {
+    "name": "Rajverdhan Singh",
+    "role": "AI/ML Software Engineer",
+    "headline": "Building backend-first AI products with measurable performance gains.",
+    "summary": "Backend Developer and AI/ML Engineer with practical experience in scalable API development, SQL optimization, and machine learning model implementation for production-oriented workflows.",
+    "availability": "Open to AI/ML Engineering and Backend roles.",
+    "resumePath": "assets/Rajverdhan_Singh_Resume.pdf",
+    "stats": [
+      {
+        "value": "25%",
+        "label": "Faster SQL Queries"
+      },
+      {
+        "value": "85%",
+        "label": "Model Accuracy"
+      },
+      {
+        "value": "10K+",
+        "label": "Records Processed"
+      }
+    ]
+  },
+  "about": "I design and ship reliable systems by combining core software engineering principles with practical machine learning. My work focuses on secure APIs, optimized database operations, and intelligent automation that creates real business impact.",
+  "focusAreas": [
+    "Scalable REST API Architecture",
+    "Database Optimization & Query Performance",
+    "Applied ML Pipelines (TF-IDF + Classification)",
+    "Production Reliability, Documentation, and Maintainability"
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        "Python",
+        "C++",
+        "Java",
+        "C",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "REST APIs",
+        "MVC",
+        "CRUD",
+        "Authentication",
+        "API Integration"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "MySQL",
+        "Indexing",
+        "Normalization",
+        "Query Optimization",
+        "Data Modeling"
+      ]
+    },
+    {
+      "category": "AI/ML",
+      "items": [
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "TF-IDF",
+        "Classification",
+        "Model Evaluation"
+      ]
+    },
+    {
+      "category": "Core CS",
+      "items": [
+        "DSA",
+        "OOP",
+        "DBMS",
+        "Operating Systems",
+        "Complexity Analysis"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "VS Code",
+        "Eclipse"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Backend Development & Data Structures Training",
+      "period": "Apr 2025 - Jul 2025",
+      "bullets": [
+        "Developed a dynamic ranking engine in C++ using STL and OOP for 10,000+ records.",
+        "Reduced SQL query execution time by 25% through indexing and normalization.",
+        "Implemented optimized CRUD operations while maintaining data integrity.",
+        "Improved algorithmic complexity from O(n^2) to O(n log n) in key paths.",
+        "Documented architecture and schema decisions to improve maintainability."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Payben - Recharge & Bill Payment Platform",
+      "stack": "PHP, MySQL, REST API",
+      "impact": "Designed and developed a full-stack web platform, improved response latency by 20%, and hardened database interaction patterns for secure transactions."
+    },
+    {
+      "name": "Optmyzr - Shareable Dashboard System",
+      "stack": "PHP, MySQL, DNS, SSL",
+      "impact": "Built a multi-user dashboard with role-based access control and secure domain configuration for stable production usage."
+    },
+    {
+      "name": "AI-Based Resume Screening System",
+      "stack": "Python, Scikit-learn, TF-IDF",
+      "impact": "Implemented an NLP classification pipeline and benchmarked Logistic Regression vs Random Forest, reaching 85% classification accuracy."
+    }
+  ],
+  "education": {
+    "degree": "B.Tech, Computer Science & Engineering (AI/ML)",
+    "school": "Lovely Professional University",
+    "cgpa": "6.6"
+  },
+  "certifications": [
+    "Cloud Computing - NPTEL (2025)",
+    "Computational Theory - Infosys (2025)",
+    "Responsive Web Design - FreeCodeCamp"
+  ],
+  "contact": {
+    "email": "rajchambyal1357@gmail.com",
+    "phone": "+91 60064 96142",
+    "github": "https://github.com/Raj1788",
+    "linkedin": "https://www.linkedin.com/in/rajverdhan-singh"
+  }
+}
